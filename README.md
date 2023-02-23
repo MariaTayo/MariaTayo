@@ -5,7 +5,7 @@ I am a Data Analyst based in London! I am passionate about using data and the us
 * 😄 From Law to Data
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau and Python.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
-* 🌱 Follow my journey here: https://www.linkedin.com/in/mariatayo
+* 🌱 You can follow my journey at: https://www.linkedin.com/in/mariatayo
 * ⚡ Fun fact: After more than a decade in the legal industry I took a bold step of faith and stepped into the world of data. 
      A Paralegal turned Data Analyst⚡️
 
