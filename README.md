@@ -1,6 +1,6 @@
 Hi, I'm Maria 👋
 
-I am a Data Analyst based in London! I am passionate about using data and the use of business intelligence to help businesses make more informed and progressive decisions with confidence! 
+I am passionate about using data and the use of business intelligence to help businesses make more informed and progressive decisions with confidence! 
 
 * 😄 From Law to Data
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
@@ -8,7 +8,7 @@ I am a Data Analyst based in London! I am passionate about using data and the us
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
 * 🌺 A Mentee at KPMG and Black Girls in Tech.
 * 🌱 You can follow my journey at: https://www.linkedin.com/in/mariatayo
-* ⚡ Fun fact: After more than a decade in the legal industry I took a bold step of faith and stepped into the world of data. 
+* ⚡ Fun fact: After almost a decade in the legal industry I took a bold step of faith and stepped into the world of data. 
      A Litigation Paralegal turned Data Analyst⚡️
 
 <!--
