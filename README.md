@@ -8,7 +8,7 @@ I am passionate about using data and the use of business intelligence to help bu
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
 * 🌺 A Mentee at KPMG and Black Girls in Tech.
 * 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
-* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal I took a bold step of faith and stepped into the world of data. 
+* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of data. 
      A Litigation Paralegal turned Data Analyst⚡️
 
 <!--
