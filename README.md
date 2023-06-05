@@ -7,7 +7,7 @@ I am passionate about using data and the use of business intelligence to help bu
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau and Python.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
 * 🌺 A Mentee at KPMG and Black Girls in Tech.
-* 🌱 You can follow my journey at: https://www.linkedin.com/in/mariatayo
+* 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
 * ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal I took a bold step of faith and stepped into the world of data. 
      A Litigation Paralegal turned Data Analyst⚡️
 
