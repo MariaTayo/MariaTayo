@@ -1,6 +1,6 @@
 Hi, I'm Maria 👋
 
-I am passionate about using data and the use of business intelligence to help businesses make more informed and progressive decisions with confidence! 
+I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed and progressive decisions with confidence! 
 
 * 😄 From Paralegal to Data Analyst
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
