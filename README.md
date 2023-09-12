@@ -2,7 +2,7 @@ Hi, I'm Maria or Funmilayo 👋
 
 I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed and progressive decisions with confidence! 
 
-* 😄 From working as a Paralegal to Tech
+* 😄 From working as a Paralegal to working in Tech
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau and Python.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
