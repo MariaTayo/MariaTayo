@@ -1,6 +1,6 @@
 Hi, I'm Maria or Funmilayo 👋
 
-I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed and progressive decisions with confidence! 
+I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed and progressive decisions with confidence! The goal is for businesses and teams to boost productivity and efficiency, promoting business growth and growth within the team.
 
 * 😄 From working as a Paralegal to working in Tech
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
