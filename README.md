@@ -2,7 +2,7 @@ Hi, I'm Maria or Funmilayo 👋
 
 Thank you for coming to my GitHub profile! 
 
-I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed and progressive decisions with confidence! The goal is to solve problems and to help businesses and teams to boost productivity and efficiency. 
+I am passionate about using data and the use of business intelligence to help businesses and key decision makers make more informed decisions with confidence! The goal is to solve problems and to help businesses and teams boost productivity and efficiency. 
 
 * 😄 From working as a Litigation Paralegal to working in Tech
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
