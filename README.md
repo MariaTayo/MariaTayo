@@ -12,6 +12,8 @@ I am passionate about using data and the use of business intelligence to help bu
 * 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
 * ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of data and technology. 
      "When Law, Data and Technology Meet"...⚡
+
+  Check out my Portfolio at https://mariatayo.github.io/!
 <!--
 **MariaTayo/MariaTayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
