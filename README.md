@@ -6,7 +6,7 @@ I am passionate about using data and the use of business intelligence to help bu
 
 * 😄 From working as a Litigation Paralegal to working in Tech
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
-* 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, Python, Waterfall and Agile Project Management.
+* 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, Python, Waterfall, Agile Project Management and Legal Project Management.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
 * 🌺 A Mentee at KPMG and Black Girls in Tech.
 * 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
