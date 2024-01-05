@@ -2,15 +2,15 @@ Hi, I'm Maria or Funmilayo 👋
 
 Thank you for coming to my GitHub profile! 
 
-I am passionate about using data and the use of technology to help businesses and key decision makers make more informed decisions with confidence! The goal is to solve problems and to help businesses and teams boost productivity and efficiency. 
+I am passionate about using data, technology and business intelligence to help businesses and teams boost productivity and efficiency! 
 
-* 😄 From working as a Litigation Paralegal to working in Tech
+* 😄 From working as a Litigation Paralegal to Project Management
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, Agile Project Management and Legal Project Management.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
-* 🌺 A Mentee at KPMG and Black Girls in Tech.
+* 🌺 Previous mentee at KPMG, Capgemini and Black Girls in Tech.
 * 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
-* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of law, data and technology. 
+* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of Project Management. 
      "When Law, Data and Technology Meet"...⚡
 
 Check out my Portfolio at https://mariatayo.github.io/.
