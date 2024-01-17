@@ -4,7 +4,7 @@ Thank you for coming to my GitHub profile!
 
 I am passionate about using data, technology and project management to help businesses and teams boost productivity and efficiency! 
 
-* 😄 From working as a Litigation Paralegal to Project Management
+* 😄 From working as a Litigation Paralegal to Project Management.
 * ✨ Succesfully completed the Data Analytics with Project Management Bootcamp by Niyo Bootcamps.
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, E-discovery, Agile Project Management and Legal Project Management.
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
