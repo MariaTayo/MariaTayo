@@ -1,8 +1,8 @@
-Hi, I'm Maria or Funmilayo 👋
+Hi, I'm Maria or Funmi 👋
 
 Thank you for coming to my GitHub profile! 
 
-I am passionate about using data, technology and business intelligence to help businesses and teams boost productivity and efficiency! I like to call myself "The Purpose Driven Project Manager" because it's more than a job!
+I am passionate about using data, technology and project management to help businesses and teams boost productivity and efficiency! I like to call myself "The Purpose Driven Project Manager" because it's more than a job!
 
 * 😄 From working as a Commercial Litigation Paralegal and Paralegal Co-ordinator to Project Management.
 * ✨ Succesfully completed the Data Analytics with Project Management Certification by Niyo Bootcamps.
