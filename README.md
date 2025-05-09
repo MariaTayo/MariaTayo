@@ -6,9 +6,9 @@ I am passionate about using data, technology and project management to help busi
 
 * 😄 From working as a Commercial Litigation Paralegal and Paralegal Co-ordinator to Project Management.
 * ✨ Succesfully completed the Data Analytics with Project Management Certification by Niyo Bootcamps.
-* 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, E-discovery, Agile Project Management and Legal Project Management.
+* 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, E-discovery and Project Management (utilising Waterfall and Agile Methodologies).
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
-* 🌺 Previous mentee at KPMG, Capgemini and Black Girls in Tech.
+* 🌺 Google Project Management Certification holder.
 * 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
 * ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of Project Management. 
      "When Law, Data and Technology Meet"...⚡#ShineYourLight
