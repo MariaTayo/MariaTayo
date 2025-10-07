@@ -2,15 +2,15 @@ Hi, I'm Maria or Funmi 👋
 
 Thank you for coming to my GitHub profile! 
 
-I am passionate about using data, technology and project management to help businesses and teams boost productivity and efficiency! I like to call myself "The Purpose Driven Project Manager" because it's more than a job!
+I am passionate about using data and technology to boost productivity, efficiency and excellence! I like to call myself "Purpose Driven" because it's more than a job!
 
-* 😄 From working as a Commercial Litigation Paralegal and Paralegal Co-ordinator to Project Management.
-* 🌺 Google Project Management Certification holder.
+* 😄 From working as a Commercial Litigation Paralegal and Paralegal Co-ordinator to eDiscovery.
+* 🌺 Google Data Analytics Certification holder.
 * ✨ Succesfully completed the Data Analytics with Project Management Certification by Niyo Bootcamps.
 * 📚 Skilled in Advanced Excel, SQL, Power BI, Tableau, E-discovery and Project Management (utilising Waterfall and Agile Methodologies).
 * 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/mariatayo 
-* 🌱 You can follow my career journey at: https://www.linkedin.com/in/mariatayo
-* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of Project Management. 
+* 🌱 You can follow my career journey at: https://www.linkedin.com/in/funmitayo
+* ⚡ Fun fact: After almost a decade in the legal industry as a Paralegal, I took a bold step of faith and stepped into the world of Legal Technology. 
      "When Law, Data and Technology Meet"...⚡#ShineYourLight
 
 Check out my Portfolio at https://mariatayo.github.io/.
